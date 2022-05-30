@@ -25,6 +25,7 @@ class Solution
             }
             $array[$num] = $i;
         }
+        return $array;
     }
 }
 
